@@ -10,4 +10,4 @@ I am currently a frelance data scientist and AI trainee at <a href="https://lant
 Email: <a href="mailto:{{site.email}}?Subject=From Blog Site:">{{site.email}}</a>
 
 ## Resume
-<iframe src="https://drive.google.com/open?id=19un6K5U98_cPeyGaapEd3iVY70o8lVTS" width="100%" height="900"></iframe>
+<iframe src="https://drive.google.com/open?id=1-plgJRDzSSvOy--z-bTCpeF50ziJYgwN" width="100%" height="900"></iframe>
