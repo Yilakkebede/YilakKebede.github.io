@@ -1,10 +1,10 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
-		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
+		"slug": "KNN",
+		"name": "K Nearest Neighbor Algorithm classifiction ",
+		"image": "KNN.png",
+		"url": "https://github.com/Yilakkebede/KNN/blob/master/Bigdata_project1.ipynb",
+		"date": "Jan 2019",
 		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
 	},
 	{
