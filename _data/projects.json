@@ -10,6 +10,7 @@
 	{
 		"name": "Black-scholes price option model",
 		"image": "Black-scholes.png",
+		"url": "https://github.com/Yilakkebede/Financial-Maths/blob/master/Financial%20Maths%20%232.ipynb",
 		"date": "Feb 2019",
 		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
 		"tags": ["Extension","Javascript"]
