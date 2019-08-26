@@ -44,7 +44,15 @@
 		"date": "Oct 2016",
 		"url": "https://medium.com/p/19fc957b3da8/edit",
 		"tags": ["PHP","HTML","CMS"]
-	},{
+	},
+	{
+		"name": "Vasicek LIBOR Short Rate Interest Model in R",
+		"image": "conceptual-business-illustration-words-vasicek-600w-1043480785.jpg",
+		"date": "Oct 2016",
+		"url": "https://medium.com/p/19fc957b3da8/edit",
+		"tags": ["HTML"]
+	},
+	{
 		"name": "JM Watts Chico",
 		"image": "jmwattschico.png",
 		"url": "http://jmwattschico.com/",
